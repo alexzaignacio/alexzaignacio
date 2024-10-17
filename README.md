@@ -7,7 +7,7 @@
 
         <h2>Objective</h2>
         <p>Motivated software developer with a passion for creating innovative applications and solutions. Seeking to leverage my expertise in software development to contribute to dynamic projects at a forward-thinking company.</p>
-    </div>
+
 
         <h2>Education</h2>
         <h3>Bachelor of Arts and Science in Computer Science</h3>
@@ -17,7 +17,6 @@
             <li>Relevant coursework: Data Structures, Web Development, Software Engineering</li>
             <li>GPA: 3.5</li>
         </ul>
-    </div>
 
         <h2>Experience</h2>
         <h3>Software Developer Intern</h3>
@@ -37,7 +36,6 @@
             <li>Designed responsive websites, improving user experience and engagement.</li>
             <li>Utilized Git for version control and collaborated with clients to gather requirements.</li>
         </ul>
-    </div>
 
         <h2>Skills</h2>
         <ul>
@@ -47,23 +45,19 @@
             <li>Familiar with Agile methodologies</li>
             <li>Excellent problem-solving and analytical skills</li>
         </ul>
-    </div>
 
         <h2>Certifications</h2>
         <ul>
             <li>Certified Java Developer, Oracle, 2023</li>
             <li>Web Development Bootcamp, Coursera, 2022</li>
         </ul>
-    </div>
 
         <h2>Projects</h2>
         <h3>Portfolio Website</h3>
         <p>Developed a personal portfolio website to showcase projects and skills, utilizing HTML, CSS, and JavaScript. Implemented responsive design techniques to ensure compatibility across devices.</p>
-    </div>
 
         <h2>References</h2>
         <p>Available upon request.</p>
-    </div>
 
 </body>
 </html>
