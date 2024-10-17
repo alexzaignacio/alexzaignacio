@@ -4,7 +4,6 @@
     <p>Phone: 09208128922<br>
     Email: <a href="mailto:alexzagayleadaoignacio@gmail.com">alexzagayleadaoignacio@gmail.com</a></p>
 
-
         <h2>Objective</h2>
         <p>Motivated software developer with a passion for creating innovative applications and solutions. Seeking to leverage my expertise in software development to contribute to dynamic projects at a forward-thinking company.</p>
 
