@@ -1,26 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Resume</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            line-height: 1.6;
-        }
-        h1, h2, h3 {
-            color: #333;
-        }
-        .section {
-            margin-bottom: 20px;
-        }
-    </style>
-</head>
-<body>
-
-    <h1>Alexza Gayle A. Ignacio</h1>
+<h1>Alexza Gayle A. Ignacio</h1>
     <p>Sagana Condo 1 Sitio Mabilog St., Brgy. New Era,<br>
     Quezon City, 1007</p>
     <p>Phone: 09208128922<br>
