@@ -4,12 +4,11 @@
     <p>Phone: 09208128922<br>
     Email: <a href="mailto:alexzagayleadaoignacio@gmail.com">alexzagayleadaoignacio@gmail.com</a></p>
 
-    <div class="section">
+
         <h2>Objective</h2>
         <p>Motivated software developer with a passion for creating innovative applications and solutions. Seeking to leverage my expertise in software development to contribute to dynamic projects at a forward-thinking company.</p>
     </div>
 
-    <div class="section">
         <h2>Education</h2>
         <h3>Bachelor of Arts and Science in Computer Science</h3>
         <p>New Era University, Quezon City, 1007<br>
@@ -20,7 +19,6 @@
         </ul>
     </div>
 
-    <div class="section">
         <h2>Experience</h2>
         <h3>Software Developer Intern</h3>
         <p>XYZ Tech Solutions, Quezon City<br>
@@ -41,7 +39,6 @@
         </ul>
     </div>
 
-    <div class="section">
         <h2>Skills</h2>
         <ul>
             <li>Proficient in Java, Python, and JavaScript</li>
@@ -52,7 +49,6 @@
         </ul>
     </div>
 
-    <div class="section">
         <h2>Certifications</h2>
         <ul>
             <li>Certified Java Developer, Oracle, 2023</li>
@@ -60,13 +56,11 @@
         </ul>
     </div>
 
-    <div class="section">
         <h2>Projects</h2>
         <h3>Portfolio Website</h3>
         <p>Developed a personal portfolio website to showcase projects and skills, utilizing HTML, CSS, and JavaScript. Implemented responsive design techniques to ensure compatibility across devices.</p>
     </div>
 
-    <div class="section">
         <h2>References</h2>
         <p>Available upon request.</p>
     </div>
