@@ -1,60 +1,56 @@
-<h1>Alexza Gayle A. Ignacio</h1>
-    <p>Sagana Condo 1 Sitio Mabilog St., Brgy. New Era,<br>
-    Quezon City, 1007</p>
-    <p>Phone: 09208128922<br>
-    Email: <a href="mailto:alexzagayleadaoignacio@gmail.com">alexzagayleadaoignacio@gmail.com</a></p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alexza Gayle A. Ignacio - Profile</title>
+</head>
+<body>
+    <h1>Alexza Gayle A. Ignacio</h1>
+    <p><strong>Bachelor of Science in Computer Science</strong><br>
+       New Era University<br>
+       2023 - Present</p>
 
-        <h2>Objective</h2>
-        Motivated software developer with a passion for creating innovative applications and solutions. Seeking to leverage my expertise in software development to contribute to dynamic projects at a forward-thinking company.
+    <hr>
 
-        <h2>Education</h2>
-        <h3>Bachelor of Arts and Science in Computer Science</h3>
-        <p>New Era University, Quezon City, 1007<br>
-        2022 – 2024</p>
-        <ul>
-            <li>Relevant coursework: Data Structures, Web Development, Software Engineering</li>
-            <li>GPA: 3.5</li>
-        </ul>
+    <h2>📚 Education</h2>
+    <ul>
+        <li><strong>Pre-school</strong><br>New Era University<br>2009-2011</li>
+        <li><strong>Elementary</strong><br>New Era University<br>2011-2017</li>
+        <li><strong>High School</strong><br>New Era University<br>2017-2023</li>
+        <li><strong>College</strong><br>Bachelor of Science Major in Computer Science<br>New Era University<br>2023 - Present</li>
+    </ul>
 
-        <h2>Experience</h2>
-        <h3>Software Developer Intern</h3>
-        <p>XYZ Tech Solutions, Quezon City<br>
-        June 2023 – August 2023</p>
-        <ul>
-            <li>Assisted in the development of web applications using HTML, CSS, and JavaScript.</li>
-            <li>Collaborated with a team to design and implement new features based on user feedback.</li>
-            <li>Conducted testing and debugging to ensure application functionality and performance.</li>
-        </ul>
+    <hr>
 
-        <h3>Freelance Software Developer</h3>
-        <p>Self-Employed, Quezon City<br>
-        January 2022 – Present</p>
-        <ul>
-            <li>Developed custom software solutions for small businesses, enhancing operational efficiency.</li>
-            <li>Designed responsive websites, improving user experience and engagement.</li>
-            <li>Utilized Git for version control and collaborated with clients to gather requirements.</li>
-        </ul>
+    <h2>💻 Skillsets</h2>
 
-        <h2>Skills</h2>
-        <ul>
-            <li>Proficient in Java, Python, and JavaScript</li>
-            <li>Experience with frameworks such as React and Node.js</li>
-            <li>Strong understanding of database management (SQL, MongoDB)</li>
-            <li>Familiar with Agile methodologies</li>
-            <li>Excellent problem-solving and analytical skills</li>
-        </ul>
+    <h3>Programming Languages</h3>
+    <p>Python, JavaScript, C++<br>SQL, HTML & CSS</p>
 
-        <h2>Certifications</h2>
-        <ul>
-            <li>Certified Java Developer, Oracle, 2023</li>
-            <li>Web Development Bootcamp, Coursera, 2022</li>
-        </ul>
+    <h3>Data Management & Analysis</h3>
+    <p>Data entry and organization<br>Familiar with data handling and processing</p>
 
-        <h2>Projects</h2>
-        <h3>Portfolio Website</h3>
-        <p>Developed a personal portfolio website to showcase projects and skills, utilizing HTML, CSS, and JavaScript. Implemented responsive design techniques to ensure compatibility across devices.</p>
+    <h3>Development Tools</h3>
+    <p>Git & GitHub<br>IDEs: Visual Studio Code, PyCharm</p>
 
-        <h2>References</h2>
-        <p>Available upon request.</p>
+    <h3>Web Development</h3>
+    <p>Basics of front-end development (HTML, CSS, JavaScript)<br>Experience with responsive design principles</p>
 
+    <h3>AI & Machine Learning</h3>
+    <p>Knowledge of AI-generated code and its impact on coding skills development<br>Introductory understanding of ML concepts</p>
 
+    <h3>Customer Service & Support</h3>
+    <p>Experience in chat support and order management</p>
+
+    <h3>Creative & Media Skills</h3>
+    <p>Video editing for social media platforms<br>Knowledge of design principles for effective digital communication</p>
+
+    <h3>Project Management</h3>
+    <p>Task scheduling and organizational skills<br>Experienced in time management and prioritizing responsibilities</p>
+
+    <hr>
+
+    <p>Feel free to reach out to me via <a href="https://www.linkedin.com" target="_blank">LinkedIn</a> or at <a href="mailto:alexzagayle@example.com">alexzagayle@example.com</a> for any inquiries or collaboration opportunities!</p>
+</body>
+</html>
