@@ -25,11 +25,11 @@
             <a href="https://courses.cognitiveclass.ai/certificates/7a1476b7d87c4c8787ab5d91ffb2030f" target="_blank">View Certificate</a>
         </li>
         <li><strong>Oracle Cloud Infrastructure 2024 Certified Foundations Associate</strong><br>
-            A course on <a href="https://courses.cognitiveclass.ai" target="_blank">cognitiveclass.ai</a><br>
+            A course on <a href="https://learn.oracle.com" target="_blank">cognitiveclass.ai</a><br>
             <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=4664F691D30EF2D43F232F2D3C4BD2185EDE08041093F7C61F3C34C020EEAE56" target="_blank">View Certificate</a>
         </li>
         <li><strong>Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate</strong><br>
-            A course on <a href="https://courses.cognitiveclass.ai" target="_blank">cognitiveclass.ai</a><br>
+            A course on <a href="https://learn.oracle.com" target="_blank">cognitiveclass.ai</a><br>
             <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=4664F691D30EF2D43F232F2D3C4BD21819A47602CF0B90A0B8EBB12BF0881ED1" target="_blank">View Certificate</a>
         </li>
     </ul>
