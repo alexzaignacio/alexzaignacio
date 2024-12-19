@@ -35,8 +35,7 @@
           <li><strong>Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate</strong><br>
             A course on <a href="https://learn.oracle.com" target="_blank">oracle.com</a><br>
             <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=CFFB3654BCE7D43C6F81AA6A40287DDFB832DD2D9FF999B1F55D298E3A63347F" target="_blank">View Certificate</a>
-        </li>
-        
+        </li>       
     </ul>
     <hr>
     <h2>SKILLSETS</h2>
