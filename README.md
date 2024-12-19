@@ -32,6 +32,11 @@
             A course on <a href="https://learn.oracle.com" target="_blank">oracle.com</a><br>
             <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=4664F691D30EF2D43F232F2D3C4BD21819A47602CF0B90A0B8EBB12BF0881ED1" target="_blank">View Certificate</a>
         </li>
+          <li><strong>Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate</strong><br>
+            A course on <a href="https://learn.oracle.com" target="_blank">oracle.com</a><br>
+            <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=CFFB3654BCE7D43C6F81AA6A40287DDFB832DD2D9FF999B1F55D298E3A63347F" target="_blank">View Certificate</a>
+        </li>
+        
     </ul>
     <hr>
     <h2>SKILLSETS</h2>
