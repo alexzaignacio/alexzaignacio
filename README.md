@@ -36,8 +36,6 @@ I'm a passionate Computer Science undergraduate at New Era University with a str
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
-*(You can expand this with more technologies as you learn them — e.g., React, Node.js, Docker, etc.)*
-
 ---
 
 ### 📊 GitHub Stats
