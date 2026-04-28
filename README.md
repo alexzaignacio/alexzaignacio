@@ -59,8 +59,6 @@ I'm a passionate Computer Science undergraduate at New Era University with a str
 - **Email**: your.email@example.com
 - **Portfolio** (if you have one): [yourportfolio.com](https://...)
 
-Feel free to reach out if you'd like to collaborate or discuss tech!
-
 ---
 
 *Last updated: April 2026*
