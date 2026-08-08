@@ -1,56 +1,84 @@
-# Hi, I'm Alexza Gayle A. Ignacio 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=40&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Alexza;Computer+Science+Student" alt="Typing SVG" />
+</div>
 
-**Computer Science Student | Aspiring Software Engineer | Cloud & AI Enthusiast**
+<br>
 
-I'm a passionate Computer Science undergraduate at New Era University with a strong interest in **cloud computing**, **databases**, and **artificial intelligence**. Currently building my skills through hands-on projects and industry-recognized certifications while pursuing my Bachelor's degree.
+<div align="center">
+  <img src="https://img.shields.io/badge/Pink%20Coder-FF69B4?style=for-the-badge&logo=heart&logoColor=white" />
+</div>
+
+<br>
+
+### About Me
+
+Hello! I'm **Alexza Gayle A. Ignacio** — a Computer Science undergrad at **New Era University** with a soft spot for cloud computing, databases, and artificial intelligence.
+
+I'm currently building my skills through hands-on projects and industry-recognized certifications while chasing my Bachelor's degree.  
+
+I love turning ideas into code (and making everything a little cuter along the way) 🩷
 
 ---
 
-### 🎓 Education
-
+### Education
 - **Bachelor of Science in Computer Science**  
-  New Era University  
-  2023 – Present
+  New Era University · 2023 – Present
 
 ---
 
-### 🏆 Certifications
-
-- **Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate** — [View Certificate](https://oracle.com/...)
-- **Oracle Cloud Infrastructure 2024 Certified Data Foundations Associate** — [View Certificate](https://oracle.com/...)
-- **Oracle Cloud Infrastructure 2024 Certified Foundations Associate** — [View Certificate](https://oracle.com/...)
-- **SQL and Relational Databases 101** — Cognitive Class (IBM) — [View Certificate](https://cognitiveclass.ai/...)
-
----
-
-### 🛠️ Tech Stack
-
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
-
-**Cloud & Tools:**  
-![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-FF0000?logo=oracle&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+### Certifications
+- Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate  
+- Oracle Cloud Infrastructure 2024 Certified Data Foundations Associate  
+- Oracle Cloud Infrastructure 2024 Certified Foundations Associate  
+- SQL and Relational Databases 101 — Cognitive Class (IBM)
 
 ---
 
-### 📊 GitHub Stats
+### Tech Stack
 
-![Alexza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexzaignacio&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexzaignacio&layout=compact&theme=radical&hide_border=true)
+**Languages**  
+![Python](https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FFB6C1?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFC0CB?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-FF69B4?style=for-the-badge&logo=html5&logoColor=white)
+
+**Cloud & Tools**  
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-FF69B4?style=for-the-badge&logo=oracle&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-FFB6C1?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 📫 Let's Connect
+### GitHub Stats
 
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) *(add this!)*
-- **Email**: your.email@example.com
-- **Portfolio** (if you have one): [yourportfolio.com](https://...)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexzaignacio&theme=pink&hide_border=true&background=FFF0F5&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" />
+</div>
 
 ---
 
-*Last updated: April 2026*
+### Popular Projects
+
+- **FactoryPattern** — Exploring creational design patterns
+- **MyFactoryPattern** — Personal take on the Factory Pattern
+- **Smart-Home-Automation** — IoT / automation experiments
+- **LabAssignment-3_AdapterPattern** & **Seatwork-3_AdapterPattern** — Adapter Pattern practice
+
+---
+
+### Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFC0CB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=alexzaignacio&label=Profile%20views&color=ff69b4&style=flat" alt="profile views" />
+</div>
+
+<br>
+
+<div align="center">
+  <i>Last updated · August 2026</i><br>
+</div>
